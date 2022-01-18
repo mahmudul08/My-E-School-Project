@@ -1,0 +1,111 @@
+
+.container{
+    margin-bottom: 100px;
+    
+}
+.Honeydew{
+    background-color: #F0FFF0;
+    height: 700px
+
+}
+#font-size{
+    font-size: 20px;
+}
+#sign{
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 28px;
+    font-size: 16px;
+
+}
+.nav li a{
+    color: #000000;
+}
+.container .Honeydew{
+    background: #F0FFF0;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    border: none;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 8px 28px;;
+}
+.p-color{
+    color: red;
+}
+.schedule{
+    color: #21B573;
+}
+.cat1, .cat2, .cat3, .cat4{
+    padding: 30px 40px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color:  #F8FFFB;
+    
+}
+.cat2{
+    background-color: #FFFFFF;
+    box-shadow: 3px 3px 5px lightgrey;
+}
+.cat3{
+    background-color: #F8FFFB;
+}
+.cat4{
+    background-color: #F8FFFB;
+}
+.card{
+   
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card img{
+    border-radius: 11px;
+    background-image: #CFB6B6;
+    padding: 15px;
+}
+.lol{
+    left: 12.5%;
+    right: 12.5%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    background: #585859;
+}
+.sell{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px
+}
+.container .head{
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+    
+}
+.man-p{
+    padding-top: 50px;
+    padding-right: 200px;
+    font-size: 16px;
+    line-height: 30px;
+}
+footer{
+    color: white;
+    border: none;
+}
+
+.copyright{
+    text-align: center;
+    color: #CDCDCD;
+
+}
+.my-2 a{
+    color: #CDCDCD;;
+    
+}
